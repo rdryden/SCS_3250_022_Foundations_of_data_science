@@ -1,0 +1,2 @@
+# SCS_3250_022_Foundations_of_data_science
+Group project
